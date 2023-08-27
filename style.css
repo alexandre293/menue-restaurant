@@ -1,0 +1,31 @@
+.menue {
+    text-decoration: underline;
+    color: #B22222;
+    text-align: center;
+
+}
+
+body {
+    background-color: #FAEBD7;
+    text-align: center;
+
+}
+
+.card {
+    display: inline-block;
+    background-color: white;
+    border: 1px solid black;
+    text-align:center;
+    border-radius: 12px;
+    width: 362px;
+    
+
+
+}
+
+img {
+    border-radius: 12px;
+    width:100% ;
+    height: 200px;
+}
+
